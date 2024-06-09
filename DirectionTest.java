@@ -1,8 +1,4 @@
-package GUI;
-
-import static org.junit.Assert.*;
-import org.junit.Test;
-
+STEPS OF CREATING GIT REPOSITORY
 public class DirectionTest {
 
     @Test
